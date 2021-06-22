@@ -1,0 +1,6 @@
+[submodule "Chisel3-RV32I-CPU"]
+	path = Chisel3-RV32I-CPU
+	url = https://github.com/vasid99/Chisel3-RV32I-CPU/
+[submodule "firesim-cam-files"]
+	path = firesim-cam-files
+	url = https://github.com/vasid99/firesim-cam-files/
